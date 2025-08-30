@@ -138,8 +138,7 @@ streamlit run app.py
 ```
 diabetes-prediction-ml/
 ├── app.py                  # Streamlit app
-├── model_training.py       # ML training code
-├── data/                   
+├── dataset/                   
 │   └── pima_diabetes_synthetic_5000.csv
 ├── models/                 
 │   └── diabetes_model.pkl  # Saved best model
